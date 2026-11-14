@@ -1,0 +1,115 @@
+{
+    "common": {
+        "duration": "%dm %ds",
+        "slow_down": "Slow down",
+        "lay_low": "Too many eyes on you. Lay low for a while",
+        "get_closer": "Get closer",
+        "moved_off": "You moved off it",
+        "vehicle_gone": "The vehicle is gone"
+    },
+    "parkingmeters": {
+        "cant_reach": "You can't get to it from here",
+        "already_empty": "This one is already empty",
+        "need_tool": "You need the right tool",
+        "pockets_full": "Your pockets are full",
+        "took": "You took $%d in marked bills",
+        "tools": {
+            "crowbar": {
+                "label": "Smash with crowbar",
+                "progress": "Smashing it open"
+            },
+            "master_key": {
+                "label": "Pick the lock",
+                "progress": "Working the lock"
+            }
+        }
+    },
+    "copperscrap": {
+        "progress": "Pulling the copper wiring",
+        "groups": {
+            "ac": "Strip AC unit",
+            "elec": "Strip electrical box"
+        },
+        "fence": "Scrap Fence",
+        "items": {
+            "copper": "Copper",
+            "scrap": "Metal Scrap"
+        },
+        "sell": "Sell scrap",
+        "dialog_item": "Item",
+        "dialog_quantity": "Quantity",
+        "nothing_to_sell": "You have nothing to sell.",
+        "batch_limit": "Sell 1 to %d at a time",
+        "already_stripped": "Someone already stripped this one",
+        "need_cutters": "You need wire cutters",
+        "pulled": "You pulled %s",
+        "nothing_worth": "Nothing worth taking",
+        "shocked_broke": "You got shocked and fried the cutters",
+        "shocked": "You got shocked",
+        "still_counting": "He is still counting your last batch",
+        "not_enough": "You don't have %d of those",
+        "cant_carry_cash": "You can't carry the cash",
+        "sold": "Sold %d for $%d in marked bills"
+    },
+    "chopshop": {
+        "blip": "Chop Shop",
+        "strip": "Strip vehicle",
+        "progress": "Stripping the vehicle",
+        "crew_busy": "The crew is busy. Come back in %s",
+        "outside_yard": "Bring it inside the chop shop",
+        "refused": "The crew won't touch that",
+        "own_vehicle": "You can't chop your own vehicle",
+        "left_yard": "The vehicle left the chop shop",
+        "stripped_bonus": "Stripped, plus $%d in marked bills",
+        "stripped": "Stripped for parts"
+    },
+    "cloning": {
+        "step_out": "Step out of the vehicle first",
+        "no_vehicle": "No vehicle close enough",
+        "dialog_title": "Reflash plate",
+        "dialog_plate": "New plate, %d to %d letters or digits",
+        "progress": "Reflashing the plate",
+        "get_closer": "Get closer to the vehicle",
+        "bad_plate": "Use %d to %d letters, digits or spaces",
+        "vin_owned": "The VIN is registered to someone else",
+        "plate_taken": "That plate is already registered",
+        "moved_away": "You moved too far away",
+        "plate_taken_meanwhile": "Someone registered that plate while you worked",
+        "done": "The plate now reads %s"
+    },
+    "drugruns": {
+        "blip": "Buyer",
+        "cant_reach": "You can't reach him from there",
+        "hand_over": "Hand over the package",
+        "ask_work": "Ask about work",
+        "run_started": "Get the box to the buyer marked on your GPS. Drop it and the deal is off.",
+        "come_back": "Nothing for you yet. Come back in %s",
+        "holding_package": "You're already holding a package",
+        "no_buyer": "No buyer is around right now",
+        "hands_full": "You can't carry the box with your hands this full",
+        "get_closer": "Get closer to the buyer",
+        "no_package": "You don't have the package",
+        "no_room_for_cash": "The buyer took the box but you couldn't carry the cash",
+        "paid": "He counts out $%d in marked bills",
+        "dropped": "You let go of the package. The buyer is gone.",
+        "died": "The package is gone, and so is the buyer.",
+        "walked_away": "You walked away from the run. The buyer is gone."
+    },
+    "storerobbery": {
+        "shops": {
+            "247": "24/7 Supermarket"
+        },
+        "grab_bag": "Grab the bag",
+        "grabbing_bag": "Grabbing the bag",
+        "dispatch_title": "Store robbery",
+        "dispatch_description": "Armed robbery in progress at the %s",
+        "in_progress": "Someone is already robbing this store",
+        "recently_robbed": "The register was emptied not long ago",
+        "not_enough_police": "There aren't enough police in the city",
+        "bag_taken": "Someone already took the bag",
+        "bag_gone": "The bag is gone",
+        "get_closer": "Get closer to the bag",
+        "no_room": "You have no room for the bag",
+        "bag_holds": "The bag holds $%d in marked bills"
+    }
+}

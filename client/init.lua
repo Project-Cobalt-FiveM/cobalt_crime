@@ -1,0 +1,6 @@
+require 'parkingmeters.client'
+require 'copperscrap.client'
+require 'chopshop.client'
+require 'cloning.client'
+require 'drugruns.client'
+require 'storerobbery.client'
